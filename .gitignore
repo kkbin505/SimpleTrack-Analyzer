@@ -1,0 +1,25 @@
+/demo
+
+/font
+
+*.mp4
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 视频与数据 (防止误传大文件)
+*.mp4
+*.mov
+*.csv
+*.json
+
+# IDE 与环境
+.vscode/
+.idea/
+venv/
+.DS_Store
+
+gopro_overlay.py
+gps_plot.py
