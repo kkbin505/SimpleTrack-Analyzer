@@ -21,5 +21,4 @@ __pycache__/
 venv/
 .DS_Store
 
-gopro_overlay.py
 gps_plot.py
